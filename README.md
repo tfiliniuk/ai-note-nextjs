@@ -1,6 +1,7 @@
 # Next.js & Open AI & Clerk & prisma & pinecone
 
-An intelligent note-taking app with AI integration, built with OpenAI, Pienoce, Next.js, Shadcn UI, Clerk, and more
+An intelligent note-taking app with AI integration, built with OpenAI, Pienoce, Next.js, Shadcn UI, Clerk, and more.
+In order to test APP you can visit that website [https://ai-note-nextjs-hn84j61p7-tfiliniuks-projects.vercel.app/] (https://ai-note-nextjs-hn84j61p7-tfiliniuks-projects.vercel.app/)
 
 ## Features
 
